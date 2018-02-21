@@ -17,7 +17,10 @@ NEEDS:
   - Software da Smart Home;
   - Ter diferentes perfis para diferentes actores (permissões e utilizações distintas);
   
-  GOALS
+  GOALS:
+    - Aumentar a eficiência energética;
+    - Ser de utilização fácil e intiutiva;
+    - Utilização livre/costumizavel;
   
   
   
