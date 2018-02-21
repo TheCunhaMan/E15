@@ -11,7 +11,13 @@ NEEDS:
   - Segurança:
     - Controlar alarme, entradas na casa
     (Utilizador presente/utilizador ausente)
-  - Controlo remoto sobre as funcionalidades da casa (electrodomésticos etc);
+  - Controlo remoto sobre as funcionalidades da casa (electrodomésticos  etc);
+  
+ PRODUCT:
+  - Software da Smart Home;
+  - Ter diferentes perfis para diferentes actores (permissões e utilizações distintas);
+  
+  GOALS
   
   
   
@@ -19,13 +25,16 @@ NEEDS:
   
   
   
-  
-  
-  
-  
-  Utilizador - Casos de uso:
-    - utilização simples (on/off);
-    - configuração (definir parametros (ex:regular temperatura);
-    - Modo ausente / presente;
+ACTORES:
+  - Administrador;
+  - Técnico Manutenção;
+  - Utilizador*  
+ 
+ *Utilizador - Casos de uso:
+    - Modo presente:
+     - utilização simples (on/off);
+     - configuração (definir parametros (ex:regular temperatura);
+   - Modo ausente;
+    
     
   
